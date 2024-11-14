@@ -113,5 +113,3 @@ npx expo start
 - **State Persistence**: The app uses `AsyncStorage` to persist likes, comments, and favorites across sessions. The data is loaded when the app starts and saved when updated.
 
 ```
-
-This format includes all the necessary information for users to get started with the project. Make sure to replace the image URLs in the screenshots section with the actual paths or remove them if not applicable.
